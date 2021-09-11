@@ -1,0 +1,5 @@
+{
+    "/category":"/typesOfProduct",
+     "/category/:id":"/typesOfProduct/:id",
+     "/mainSlider":"/mainSlider"
+}
